@@ -3,7 +3,7 @@ import { Loading } from 'element-ui'
 import { confirm } from '@/base/confirm'
 import store from '@/store'
 
-const BASE_URL = 'https://mu-api.yuk0.com/'
+const BASE_URL = 'https://musicapi.yourikun.com/'
 // 不带全局loading的请求实例
 export const requestWithoutLoading = createBaseInstance()
 // 带全局loading的请求实例
